@@ -1,8 +1,10 @@
 <h1 align="center">Desenvolvimento VirtusShop</h1>
-##### Desenvolvimento de uma loja virtual utilizando o Spring, React e Next.js
+
 ## Métodos Avaliativos 
 ##### [Desenvolvimento da Aplicação](https://www.youtube.com/watch?v=K8sh4xOZ42M&list=PLoIFXY7ye0IO33-laf_bH-NyuvRQt4l0H&ab_channel=FrankCardoso), realizado em sala de aula, semanalmente;
 ##### Avaliação em sala, realizada no final do trimestre.
+
+##### Desenvolvimento de uma loja virtual utilizando o Spring, React e Next.js
 
 ### 2º Trimestre
 * 📆 Aula 1 - 16/05 [Criação de projeto e primeiras configurações]
